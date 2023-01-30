@@ -1,4 +1,4 @@
-public class Employee{
+public class Employee1{
 
 private int id;
 
@@ -18,14 +18,14 @@ public void setId(int id){
  this.name = name;
  }
  
- public int getname(){
+ public String getname(){
  return name;
  }
  public void setAddress(String address){
  this.address =address;
  }
  
- public int getAddress(){
+ public String getAddress(){
  return address;
  }
 
