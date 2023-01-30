@@ -19,5 +19,9 @@ public class Test {
 		
 		System.out.println("data of employee "+employee1);
 		
+		if(10>0) {
+			System.out.println("10 is greather");
+		}
+		
 	}
 }
